@@ -39,10 +39,10 @@ def generate_stats_table(df, numerical_column):
 
 
 def minmax_norm(data, min, max):
-  return (data - min) / (max - min)
+    return (data - min) / (max - min)
 
 def z_norm(data, mean, std):
-  return (data - mean) / std
+    return (data - mean) / std
 
 def numerical_prep(df_origin, numerical_column, norm_type='minmax'):
 
