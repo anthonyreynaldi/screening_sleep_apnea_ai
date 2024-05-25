@@ -1,6 +1,22 @@
 import os
 import pandas as pd
 
+def get_numerical_column():
+    return ['Usia (thn)', 'Tinggi (cm)', 'Berat (Kg)', 'BMI (Kg/m2)', 'Lingkar Perut (cm)', 'Lingkar Leher (cm)', 'Terbangun (berapa kali): buang air kecil', 'Terbangun (berapa kali): tersedak', 'Durasi tidur (jam)']
+
+def make_template_df(df):
+    temp = df.copy()
+    temp = temp.iloc[0:0]
+    default_values = {col: 0 if pd.api.types.is_numeric_dtype(df[col]) else "" for col in df.columns}
+    temp = pd.DataFrame([default_values])
+    temp.to_excel('data/template.xlsx')
+
+def get_df_template():
+    df = pd.read_excel("data/template.xlsx")
+    df = df.drop(columns=['Unnamed: 0', 'Label (OSA )'])
+
+    return df
+
 def create_empty_stats_table(numerical_column):
   #result dataframe of stastical analysis
   stats = ['MIN', 'MAX', 'AVG', 'STD']
@@ -64,7 +80,7 @@ def numerical_prep(df_origin, numerical_column, norm_type='minmax'):
 
     return df_result
 
-def categorical_prep(df_origin):
+def categorical_prep(df_origin: pd.DataFrame):
     df_result = df_origin.copy()
 
     # replace loudness of snoring
@@ -80,8 +96,11 @@ def categorical_prep(df_origin):
     #replace sleepy during activities
     category_sleepy = {
         'Tidak Menggangu': 0,
+        'Tidak Mengganggu': 0,
         'Sedikit Menggangu': 1,
-        'Sangat Menganggu': 2
+        'Sedikit Mengganggu': 1,
+        'Sangat Menganggu': 2,
+        'Sangat Mengganggu': 2
     }
 
     df_result['Ngantuk saat beraktifitas'] = df_origin['Ngantuk saat beraktifitas'].replace(category_sleepy)
@@ -109,7 +128,9 @@ def categorical_prep(df_origin):
         'TRUE': 1,
         'True': 1,
         'FALSE': 0,
-        'False': 0
+        'False': 0,
+        True: 1,
+        False: 0
     }
     df_result = df_result.replace(category_other)
 
@@ -143,9 +164,10 @@ def categorical_prep(df_origin):
         'adenoid besar': 'Adenoid',
         'adenoid': 'Adenoid',
     }
-
-    df_result['Kondisi yang menyertai: Lainnya'] = df_result['Kondisi yang menyertai: Lainnya'].replace(current_condition)
-    df_result['Kondisi yang menyertai: Lainnya'] = df_result['Kondisi yang menyertai: Lainnya'].str.title()
+    
+    if 'Kondisi yang menyertai: Lainnya' in df_origin.columns:
+        df_result['Kondisi yang menyertai: Lainnya'] = df_result['Kondisi yang menyertai: Lainnya'].replace(current_condition)
+        df_result['Kondisi yang menyertai: Lainnya'] = df_result['Kondisi yang menyertai: Lainnya'].str.title()
 
     return df_result
 

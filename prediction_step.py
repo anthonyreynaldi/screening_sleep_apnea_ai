@@ -13,4 +13,4 @@ def model_predict(model_name, processed_features):
     model = load_model(model_name)
     prediction = model.predict([processed_features])
 
-    print(prediction)
+    return prediction
