@@ -3,8 +3,10 @@ import json
 from flask import Flask, request, jsonify
 from preprocessing_step import *
 from prediction_step import *
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 def preprocess_data(data: dict):
   input_data = {
@@ -51,6 +53,8 @@ def predict(data: dict):
   #preprocess the data first
   prep_data = preprocess_data(data)
 
+  print(prep_data)
+
   #find prediction for every model
   models = ['KNN', 'LogisticRegression', 'RandomForest', 'SVM']
   predict_result = {}
@@ -90,5 +94,9 @@ def handle_predict():
   else:
     return jsonify({"error": "Method not allowed"}), 405
 
+@app.route('/')
+def hello_world():
+    return 'Hello from Flask Deploy!'
+
 if __name__ == "__main__":
-  app.run(debug=False)
+  app.run(debug=True)

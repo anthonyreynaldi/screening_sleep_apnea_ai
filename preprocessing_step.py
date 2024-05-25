@@ -1,6 +1,13 @@
 import os
 import pandas as pd
 
+# Get the current working directory
+current_directory = os.getcwd()
+
+# Construct the full path to the Excel file
+stats_file_path = os.path.join(current_directory, 'data', 'stats_table.xlsx')
+template_file_path = os.path.join(current_directory, 'data', 'stats_table.xlsx')
+
 def get_numerical_column():
     return ['Usia (thn)', 'Tinggi (cm)', 'Berat (Kg)', 'BMI (Kg/m2)', 'Lingkar Perut (cm)', 'Lingkar Leher (cm)', 'Terbangun (berapa kali): buang air kecil', 'Terbangun (berapa kali): tersedak', 'Durasi tidur (jam)']
 
@@ -9,10 +16,10 @@ def make_template_df(df):
     temp = temp.iloc[0:0]
     default_values = {col: 0 if pd.api.types.is_numeric_dtype(df[col]) else "" for col in df.columns}
     temp = pd.DataFrame([default_values])
-    temp.to_excel('data/template.xlsx')
+    temp.to_excel(template_file_path)
 
 def get_df_template():
-    df = pd.read_excel("data/template.xlsx")
+    df = pd.read_excel(stats_file_path)
     df = df.drop(columns=['Unnamed: 0', 'Label (OSA )'])
 
     return df
@@ -49,7 +56,8 @@ def generate_stats_table(df, numerical_column):
             table_stats['AVG'][column] = df[column].mean()
             table_stats['STD'][column] = df[column].std()
 
-        table_stats.to_excel("data/stats_table.xlsx")
+        print(stats_file_path)
+        table_stats.to_excel(stats_file_path)
 
     return table_stats
 
@@ -62,7 +70,8 @@ def z_norm(data, mean, std):
 
 def numerical_prep(df_origin, numerical_column, norm_type='minmax'):
 
-    path_stats_table = "data/stats_table.xlsx"
+    path_stats_table = stats_file_path
+    print(path_stats_table)
     if os.path.exists(path_stats_table):
         table_stats = pd.read_excel(path_stats_table)
         table_stats = table_stats.set_index("Unnamed: 0")
