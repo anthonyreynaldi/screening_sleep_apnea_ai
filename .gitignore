@@ -14,3 +14,4 @@ instance/
 # Jupyter Notebooks
 .ipynb_checkpoints/
 *.ipynb_checkpoints
+screening-sleep-apnea*
