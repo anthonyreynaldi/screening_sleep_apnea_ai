@@ -1,12 +1,6 @@
 import os
 import pandas as pd
-
-# Get the current working directory
-current_directory = os.getcwd()
-
-# Construct the full path to the Excel file
-stats_file_path = os.path.join(current_directory, 'data', 'stats_table.xlsx')
-template_file_path = os.path.join(current_directory, 'data', 'stats_table.xlsx')
+from globals import *
 
 def get_numerical_column():
     return ['Usia (thn)', 'Tinggi (cm)', 'Berat (Kg)', 'BMI (Kg/m2)', 'Lingkar Perut (cm)', 'Lingkar Leher (cm)', 'Terbangun (berapa kali): buang air kecil', 'Terbangun (berapa kali): tersedak', 'Durasi tidur (jam)']
@@ -56,8 +50,10 @@ def generate_stats_table(df, numerical_column):
             table_stats['AVG'][column] = df[column].mean()
             table_stats['STD'][column] = df[column].std()
 
-        print(stats_file_path)
-        table_stats.to_excel(stats_file_path)
+    rename_to_log(stats_file_path)
+
+    print(stats_file_path)
+    table_stats.to_excel(stats_file_path)
 
     return table_stats
 

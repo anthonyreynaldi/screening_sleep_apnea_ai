@@ -1,7 +1,10 @@
+import os
 from IPython.display import display
 import pandas as pd
 from sklearn.metrics import multilabel_confusion_matrix, confusion_matrix, classification_report
 from prediction_step import load_model
+import seaborn as sns
+import matplotlib.pyplot as plt
 
 #old
 def calculate_metrics(conf_matrix):
@@ -41,6 +44,14 @@ def calculate_metrics_per_class(y_true, y_pred, classes):
 
     return pd.DataFrame(df_result).transpose()
 
+def create_heatmap_confussion_matrix(confussion_matrix, classes):
+    plt.figure(figsize=(10, 7))
+    sns.heatmap(confussion_matrix, annot=True, fmt='d', cmap='Blues', xticklabels=classes, yticklabels=classes)
+    plt.xlabel('Prediksi')
+    plt.ylabel('Sebenarnya')
+    plt.title('Confusion Matrix Heatmap')
+    plt.show()
+
 def calculate_metrics_all(y_true, y_pred, classes):
 
     # Convert labels to numerical format
@@ -49,6 +60,8 @@ def calculate_metrics_all(y_true, y_pred, classes):
 
     # Compute the confusion matrix with the labels parameter
     cm = confusion_matrix(y_true_encoded, y_pred_encoded, labels=range(len(classes)))
+
+    create_heatmap_confussion_matrix(cm, classes)
 
     # Initialize dictionaries to hold the metrics for each class
     metrics = {cls: {} for cls in classes}
@@ -97,7 +110,7 @@ def calculate_model_metrics(model_name, X_test, y_test):
 
     return result_per_class.round(2), result_all.round(2)
 
-def validation_model(models_name, X_test, y_test):
+def validation_model(models_name, X_test, y_test, path_save=None):
 
     result_per_model = {}
 
@@ -105,6 +118,18 @@ def validation_model(models_name, X_test, y_test):
         result_per_class, result_all = calculate_model_metrics(model_name, X_test, y_test)
 
         result_per_model[model_name] = result_all
+
+        if path_save:
+            if not os.path.exists(path_save):
+                os.makedirs(path_save)
+
+            result_per_class.to_excel(f'{path_save}/{model_name}.xlsx')
+
         display(result_per_class)
+
+    result = pd.DataFrame(result_per_model).transpose()
+
+    if path_save:
+        result.to_excel(f'{path_save}/overall.xlsx')
 
     return pd.DataFrame(result_per_model).transpose()

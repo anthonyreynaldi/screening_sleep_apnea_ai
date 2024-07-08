@@ -2,6 +2,7 @@ from collections import Counter
 import json
 from flask import Flask, request, jsonify
 from preprocessing_step import *
+from training_step import *
 from prediction_step import *
 from flask_cors import CORS
 
@@ -93,6 +94,12 @@ def handle_predict():
   
   else:
     return jsonify({"error": "Method not allowed"}), 405
+  
+@app.route("/retrain", methods=["GET"])
+def handle_retrain():
+  retrain_models()
+
+  return jsonify({"success": "Retrain Model Success"}), 200
 
 @app.route('/')
 def hello_world():

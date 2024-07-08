@@ -1,0 +1,404 @@
+Jenis Kelamin,Usia (thn),Tinggi (cm),Berat (Kg),BMI (Kg/m2),Lingkar Perut (cm),Lingkar Leher (cm),Suara Mengorok,Terbangun (berapa kali): buang air kecil,Terbangun (berapa kali): tersedak,Durasi tidur (jam),Ngantuk saat beraktifitas,Kondisi yang menyertai: Diabetes,Kondisi yang menyertai: Hipertensi,Kondisi yang menyertai: Hyperkolesterol,Kondisi yang menyertai: Lainnya,Label (OSA)
+Laki-laki,59.0,176.0,110.0,35.51136363636364,130.0,39.0,Keras,3.0,5.0,6.0,Sedikit Menggangu,TRUE,TRUE,TRUE,,Berat
+Perempuan,27.0,154.0,119.0,50.17709563164109,140.0,45.0,Keras,2.0,2.0,6.0,Sedikit Menggangu,TRUE,TRUE,TRUE,,Berat
+Laki-laki,37.0,179.0,90.0,28.089010954714272,104.0,35.0,Pelan,1.0,2.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,hidung tersumbat,Ringan
+Laki-laki,39.0,167.0,104.0,37.29068808490803,120.0,42.0,Keras,3.0,5.0,6.0,Sangat Menganggu,TRUE,FALSE,FALSE,,Berat
+Laki-laki,52.0,170.0,90.0,31.14186851211073,99.0,36.0,Pelan,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Perempuan,39.0,164.0,66.0,24.538964901844146,90.0,35.0,Sedang,2.0,1.0,5.0,Sedikit Menggangu,FALSE,FALSE,TRUE,,Sedang
+Perempuan,28.0,159.0,60.0,23.73323840037973,85.0,32.0,Keras,2.0,2.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,amandel besar,Sedang
+Laki-laki,25.0,170.0,95.0,32.871972318339104,110.0,42.0,Sedang,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Sedang
+Laki-laki,38.0,180.0,96.0,29.629629629629626,105.0,39.0,Keras,3.0,6.0,5.0,Sangat Menganggu,FALSE,FALSE,FALSE,,Berat
+Perempuan,40.0,164.0,60.0,22.308149910767405,72.0,34.0,Normal (tidak mengorok),0.0,0.0,5.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,43.0,165.0,85.0,31.22130394857668,90.0,35.0,Pelan,1.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,sering pilek,Ringan
+Laki-laki,45.0,173.0,95.0,31.741788900397605,110.0,38.0,Sedang,1.0,3.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Perempuan,35.0,160.0,63.0,24.609374999999996,75.0,34.0,Pelan,1.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,GERD,Normal
+Perempuan,38.0,168.0,48.0,17.006802721088437,62.0,31.0,Pelan,0.0,0.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,rhinitis alergi,Normal
+Laki-laki,30.0,180.0,100.0,30.864197530864196,105.0,43.0,Sedang,1.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,amandel,Ringan
+Laki-laki,48.0,170.0,95.0,32.871972318339104,110.0,39.0,Keras,1.0,4.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,amandel,Berat
+Laki-laki,53.0,163.0,93.0,35.00319921713275,115.0,40.0,Keras,2.0,5.0,5.0,Sangat Menganggu,FALSE,TRUE,TRUE,,Berat
+Perempuan,45.0,165.0,80.0,29.384756657483933,90.0,38.0,Keras,2.0,3.0,6.0,Sedikit Menggangu,TRUE,FALSE,TRUE,,Sedang
+Perempuan,36.0,155.0,75.0,31.217481789802285,95.0,37.0,Sedang,1.0,2.0,5.0,Tidak Menggangu,FALSE,FALSE,TRUE,,Sedang
+Perempuan,43.0,160.0,80.0,31.249999999999993,98.0,40.0,Keras,2.0,3.0,5.0,Sangat Menganggu,TRUE,TRUE,FALSE,,Berat
+Laki-laki,67.0,173.0,110.0,36.753650305723546,130.0,42.0,Keras,2.0,5.0,6.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
+Laki-laki,53.0,175.0,103.0,33.63265306122449,120.0,38.0,Keras,2.0,5.0,5.0,Sedikit Menggangu,TRUE,TRUE,TRUE,,Berat
+Laki-laki,70.0,175.0,70.0,22.857142857142858,80.0,34.0,Normal (tidak mengorok),0.0,0.0,6.0,Tidak Menggangu,FALSE,TRUE,FALSE,,Normal
+Laki-laki,65.0,173.0,90.0,30.071168431955627,100.0,38.0,Sedang,0.0,0.0,6.0,Tidak Menggangu,FALSE,TRUE,TRUE,,Ringan
+Laki-laki,63.0,160.0,105.0,41.01562499999999,130.0,44.0,Keras,2.0,5.0,6.0,Tidak Menggangu,TRUE,TRUE,TRUE,,Berat
+Laki-laki,38.0,176.0,86.0,27.763429752066116,115.0,42.0,Sedang,1.0,2.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,hidung tersumbat,Sedang
+Laki-laki,38.0,176.0,96.0,30.991735537190085,125.0,41.0,Keras,2.0,6.0,6.0,Sangat Menganggu,FALSE,FALSE,FALSE,hidung tersumbat,Berat
+Laki-laki,15.0,156.0,66.0,27.12031558185404,96.0,38.0,Sedang,0.0,3.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,amandel besar,Berat
+Laki-laki,14.0,160.0,56.0,21.874999999999996,90.0,38.0,Keras,0.0,3.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,sinusitis,Berat
+Laki-laki,35.0,170.0,85.0,29.411764705882355,98.0,38.0,Keras,1.0,4.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,amandel besar,Berat
+Perempuan,65.0,167.0,76.0,27.250887446663558,120.0,40.0,Keras,2.0,5.0,5.0,Sedikit Menggangu,TRUE,TRUE,TRUE,,Berat
+Perempuan,42.0,164.0,60.0,22.308149910767405,72.0,31.0,Normal (tidak mengorok),2.0,0.0,5.0,Tidak Menggangu,FALSE,FALSE,TRUE,,Normal
+Perempuan,35.0,164.0,59.0,21.936347412254616,88.0,38.0,Sedang,2.0,3.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Sedang
+Laki-laki,41.0,182.0,84.0,25.359256128486894,86.0,38.0,Pelan,0.0,3.0,5.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,40.0,180.0,94.0,29.012345679012345,100.0,39.0,Sedang,1.0,3.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Sedang
+Perempuan,36.0,156.0,80.0,32.87310979618672,96.0,40.0,Pelan,2.0,5.0,6.0,Sangat Menganggu,FALSE,TRUE,TRUE,,Berat
+Perempuan,42.0,167.0,113.0,40.517766861486606,125.0,45.0,Sedang,0.0,3.0,6.0,Sedikit Menggangu,FALSE,FALSE,TRUE,,Sedang
+Perempuan,55.0,175.0,95.0,31.020408163265305,104.0,38.0,Sedang,0.0,2.0,6.0,Sedikit Menggangu,FALSE,TRUE,TRUE,,Ringan
+Laki-laki,13.0,180.0,47.0,14.506172839506172,72.0,31.0,Normal (tidak mengorok),0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,7.0,145.0,22.0,10.46373365041617,59.0,29.0,Keras,0.0,3.0,7.0,Sedikit Menggangu,FALSE,FALSE,FALSE,amandel besar,Sedang
+Laki-laki,22.0,170.0,80.0,27.68166089965398,104.0,41.0,Normal (tidak mengorok),0.0,0.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,57.0,159.0,70.0,27.688778133776353,94.0,38.0,Keras,2.0,5.0,5.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Berat
+Laki-laki,38.0,170.0,85.0,29.411764705882355,80.0,38.0,Keras,2.0,6.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Berat
+Laki-laki,59.0,160.0,95.0,37.10937499999999,130.0,43.0,Keras,2.0,5.0,6.0,Tidak Menggangu,TRUE,TRUE,TRUE,,Berat
+Perempuan,60.0,157.0,80.0,32.45567771512029,100.0,40.0,Keras,2.0,6.0,6.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
+Perempuan,55.0,160.0,75.0,29.296874999999993,108.0,40.0,Sedang,2.0,2.0,6.0,Tidak Menggangu,TRUE,FALSE,TRUE,,Sedang
+Perempuan,42.0,165.0,100.0,36.73094582185492,115.0,42.0,Sedang,1.0,0.0,6.0,Tidak Menggangu,TRUE,FALSE,FALSE,,Ringan
+Laki-laki,35.0,178.0,110.0,34.71783865673526,110.0,42.0,Keras,1.0,5.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,amandel besar,Berat
+Perempuan,48.0,160.0,60.0,23.437499999999996,88.0,35.0,Sedang,1.0,0.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,25.0,178.0,70.0,22.093170054286073,84.0,36.0,Sedang,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,bibir sumbing,Normal
+Perempuan,13.0,158.0,55.0,22.031725684986377,75.0,35.0,Sedang,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,alergi hidung,Normal
+Perempuan,38.0,167.0,49.0,17.569651116927822,62.0,31.0,Pelan,0.0,0.0,8.0,Tidak Menggangu,FALSE,FALSE,FALSE,hidung tersumbat,Normal
+Laki-laki,30.0,175.0,80.0,26.122448979591837,90.0,36.0,Pelan,0.0,0.0,7.0,Tidak Menggangu,FALSE,TRUE,FALSE,,Normal
+Laki-laki,38.0,176.0,90.0,29.054752066115704,120.0,40.0,Sedang,1.0,0.0,6.0,Tidak Menggangu,FALSE,TRUE,FALSE,,Ringan
+Perempuan,15.0,155.0,77.0,32.04994797086368,95.0,38.0,Sedang,1.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Perempuan,19.0,155.0,86.0,35.796045785639954,106.0,41.0,Keras,1.0,3.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Sedang
+Laki-laki,80.0,167.0,74.0,26.533758829646096,104.0,40.0,Keras,2.0,6.0,5.0,Sedikit Menggangu,TRUE,TRUE,TRUE,,Berat
+Laki-laki,16.0,155.0,76.0,31.63371488033298,88.0,38.0,Pelan,0.0,0.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,34.0,147.0,61.0,28.228978666296452,84.0,31.0,Pelan,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,23.0,167.0,86.0,30.83653053175087,84.0,36.0,Normal (tidak mengorok),0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,30.0,177.0,82.0,26.173832551310287,99.0,38.0,Sedang,0.0,0.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,44.0,168.0,80.5,28.521825396825403,105.0,39.0,Sedang,1.0,2.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Perempuan,35.0,171.0,62.3,21.305700899422046,78.0,32.0,Pelan,1.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Perempuan,67.0,160.0,60.0,23.437499999999996,90.0,38.0,Sedang,2.0,4.0,6.0,Sedikit Menggangu,FALSE,TRUE,FALSE,,Sedang
+Laki-laki,61.0,172.0,65.6,22.174148188209845,95.0,40.0,Sedang,2.0,4.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Sedang
+Laki-laki,43.0,168.0,63.5,22.498582766439913,90.0,34.0,Pelan,1.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,3.0,120.0,14.4,10.0,55.0,26.0,Keras,0.0,2.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,Pilek,Sedang
+Perempuan,5.0,120.0,21.5,14.930555555555555,58.0,27.0,Sedang,0.0,2.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,adenoid besar,Ringan
+Perempuan,6.0,135.0,26.0,14.266117969821671,65.0,29.0,Keras,0.0,4.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,amandel,Sedang
+Laki-laki,65.0,178.0,92.0,29.036737785633125,104.0,39.0,Sedang,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,70.0,175.0,70.0,22.857142857142858,84.0,36.0,Sedang,0.0,0.0,6.0,Tidak Menggangu,FALSE,TRUE,FALSE,,Normal
+Laki-laki,52.0,165.0,77.0,28.282828282828287,110.0,37.0,Keras,2.0,4.0,7.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Sedang
+Laki-laki,68.0,160.0,85.0,33.20312499999999,120.0,40.0,Keras,2.0,4.0,6.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
+Perempuan,3.0,100.0,17.0,17.0,45.0,25.0,Pelan,0.0,0.0,8.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,4.0,105.0,17.0,15.419501133786847,45.0,25.0,Keras,1.0,2.0,7.0,Sedikit Menggangu,FALSE,FALSE,FALSE,sinusitis,Ringan
+Laki-laki,10.0,130.0,30.0,17.751479289940825,50.0,26.0,Keras,1.0,2.0,7.0,Sedikit Menggangu,FALSE,FALSE,FALSE,pilek,Ringan
+Perempuan,34.0,167.0,85.0,30.477966223242138,94.0,32.0,Sedang,1.0,2.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,rhinitis alergi,Ringan
+Perempuan,26.0,158.0,58.0,23.233456176894723,80.0,32.0,Normal (tidak mengorok),1.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,57.0,178.0,91.2,28.784244413584144,105.0,38.0,Sedang,1.0,2.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,37.0,175.0,74.7,24.39183673469388,96.0,38.0,Sedang,1.0,2.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,46.0,167.0,94.0,33.70504499982072,120.0,45.0,Keras,2.0,6.0,5.0,Sangat Menganggu,FALSE,TRUE,TRUE,,Berat
+Laki-laki,79.0,170.0,82.0,28.373702422145332,100.0,43.0,Keras,1.0,6.0,6.0,Sedikit Menggangu,TRUE,TRUE,TRUE,,Berat
+Perempuan,41.0,162.0,66.0,25.14860539551897,90.0,32.0,Sedang,1.0,0.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,32.0,94.0,158.0,178.81394296061566,90.0,35.0,Sedang,1.0,1.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,13.0,170.0,42.0,14.532871972318341,68.0,31.0,Pelan,0.0,0.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,rhinitis alergi,Normal
+Laki-laki,45.0,160.0,62.0,24.218749999999996,84.0,36.0,Normal (tidak mengorok),0.0,0.0,7.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,39.0,155.0,49.0,20.39542143600416,76.0,31.0,Pelan,0.0,0.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,66.0,178.0,79.0,24.933720489837143,90.0,38.0,Sedang,0.0,1.0,7.0,Tidak Menggangu,FALSE,TRUE,FALSE,,Normal
+Laki-laki,69.0,175.0,65.0,21.224489795918366,80.0,38.0,Sedang,0.0,0.0,7.0,Tidak Menggangu,FALSE,TRUE,FALSE,,Normal
+Perempuan,55.0,162.0,69.0,26.291723822588015,84.0,34.0,Pelan,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,alergi,Normal
+Perempuan,74.0,160.0,51.6,20.156249999999996,80.0,34.0,Pelan,2.0,0.0,5.0,Tidak Menggangu,FALSE,TRUE,FALSE,,Normal
+Perempuan,38.0,155.0,60.0,24.97398543184183,86.0,38.0,Sedang,1.0,2.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,rhinitis alergi,Ringan
+Laki-laki,74.0,170.0,68.4,23.667820069204158,84.0,35.0,Pelan,1.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,50.0,169.0,74.0,25.909456951787405,90.0,36.0,Sedang,1.0,0.0,6.0,Tidak Menggangu,FALSE,TRUE,FALSE,,Normal
+Laki-laki,8.0,138.0,38.6,20.268851081705527,65.0,31.0,Sedang,0.0,2.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,sinusitis,Sedang
+Perempuan,27.0,158.0,63.0,25.236340330075304,84.0,35.0,Sedang,0.0,3.0,7.0,Sedikit Menggangu,FALSE,FALSE,FALSE,hidung buntu,Sedang
+Laki-laki,6.0,145.0,19.0,9.036860879904875,58.0,28.0,Pelan,0.0,1.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,batuk,Normal
+Perempuan,57.0,155.0,52.0,21.64412070759625,75.0,33.0,Sedang,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,75.0,177.0,73.0,23.301094832264035,80.0,36.0,Sedang,2.0,0.0,7.0,Tidak Menggangu,FALSE,TRUE,FALSE,,Normal
+Perempuan,35.0,145.0,35.0,16.646848989298455,70.0,28.0,Sedang,0.0,0.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,pilek,Normal
+Perempuan,7.0,140.0,22.4,11.428571428571429,55.0,25.0,Pelan,0.0,0.0,8.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,37.0,155.0,57.1,23.766909469302806,73.0,31.0,Pelan,0.0,2.0,7.0,Sedikit Menggangu,FALSE,FALSE,FALSE,reflux,Ringan
+Perempuan,51.0,165.0,69.5,25.528007346189167,80.0,35.0,Sedang,0.0,2.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,sinusitis,Ringan
+Laki-laki,63.0,180.0,77.0,23.76543209876543,84.0,35.0,Sedang,0.0,0.0,7.0,Tidak Menggangu,FALSE,TRUE,FALSE,,Normal
+Laki-laki,55.0,165.0,80.0,29.384756657483933,90.0,40.0,Sedang,0.0,2.0,6.0,Tidak Menggangu,FALSE,TRUE,FALSE,,Ringan
+Laki-laki,21.0,170.0,51.7,17.889273356401386,80.0,35.0,Pelan,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,36.0,167.0,69.0,24.740937287102444,100.0,38.0,Sedang,0.0,2.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Ringan
+Perempuan,27.0,160.0,56.5,22.070312499999996,75.0,31.0,Pelan,0.0,0.0,5.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,53.0,158.0,46.5,18.62682262457939,75.0,32.0,Sedang,0.0,2.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,polip,Ringan
+Laki-laki,28.0,170.0,140.0,48.44290657439447,150.0,45.0,Keras,1.0,6.0,6.0,Sedikit Menggangu,FALSE,TRUE,FALSE,,Berat
+Laki-laki,35.0,175.0,108.0,35.265306122448976,100.0,35.0,Sedang,0.0,0.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,34.0,170.0,110.0,38.062283737024224,109.0,40.0,Sedang,0.0,2.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,16.0,165.0,120.0,44.0771349862259,115.0,42.0,Sedang,1.0,3.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,28.0,177.0,108.0,34.47285262855501,99.0,39.0,Pelan,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,29.0,167.0,116.0,41.593459787012804,108.0,39.0,Sedang,0.0,3.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,30.0,173.0,99.0,33.07828527515119,98.0,38.0,Sedang,0.0,3.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,amandel besar,Ringan
+Perempuan,15.0,155.0,87.0,36.21227887617065,100.0,36.0,Sedang,0.0,0.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,17.0,170.0,95.0,32.871972318339104,98.0,36.0,Pelan,0.0,0.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,70.0,178.0,100.0,31.561671506122963,98.0,35.0,Sedang,1.0,3.0,5.0,Tidak Menggangu,FALSE,TRUE,TRUE,,Ringan
+Perempuan,63.0,168.0,85.0,30.116213151927443,105.0,35.0,Keras,2.0,6.0,5.0,Sedikit Menggangu,TRUE,TRUE,FALSE,,Berat
+Perempuan,60.0,165.0,80.0,29.384756657483933,90.0,36.0,Sedang,1.0,3.0,6.0,Tidak Menggangu,FALSE,TRUE,FALSE,,Sedang
+Laki-laki,7.0,130.0,26.0,15.384615384615383,55.0,25.0,Keras,1.0,6.0,8.0,Sedikit Menggangu,FALSE,FALSE,FALSE,sinusitis,Sedang
+Perempuan,42.0,168.0,113.0,40.036848072562364,130.0,38.0,Sedang,1.0,3.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Perempuan,36.0,160.0,78.0,30.468749999999993,87.0,35.0,Sedang,1.0,2.0,6.0,Tidak Menggangu,FALSE,TRUE,FALSE,,Ringan
+Perempuan,45.0,155.0,65.0,27.055150884495315,85.0,34.0,Pelan,1.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,19.0,150.0,77.0,34.22222222222222,100.0,36.0,Sedang,0.0,4.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,67.0,175.0,84.0,27.428571428571427,89.0,34.0,Sedang,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,amandel gede,Ringan
+Laki-laki,65.0,175.0,88.0,28.73469387755102,80.0,34.0,Pelan,0.0,0.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,54.0,164.0,69.0,25.654372397382513,84.0,35.0,Sedang,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,47.0,157.0,65.0,26.370238143535232,78.0,35.0,Pelan,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,43.0,156.0,75.0,30.818540433925047,90.0,38.0,Sedang,0.0,3.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Sedang
+Perempuan,57.0,164.0,85.0,31.603212373587155,95.0,35.0,Sedang,0.0,6.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Sedang
+Perempuan,24.0,160.0,55.0,21.484374999999996,67.0,33.0,Keras,0.0,3.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,amandel besar,Sedang
+Perempuan,35.0,158.0,50.0,20.028841531805796,70.0,31.0,Pelan,0.0,0.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,1.0,65.0,9.0,21.301775147928993,40.0,15.0,Sedang,0.0,0.0,9.0,Tidak Menggangu,FALSE,FALSE,FALSE,pilek ,Normal
+Perempuan,65.0,162.0,68.4,26.063100137174207,94.0,35.0,Sedang,0.0,2.0,6.0,Tidak Menggangu,FALSE,TRUE,TRUE,,Ringan
+Laki-laki,18.0,181.0,86.6,26.43386954000183,88.0,37.0,Sedang,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,23.0,160.0,80.0,31.249999999999993,90.0,35.0,Sedang,0.0,2.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Perempuan,16.0,163.0,62.5,23.52365538785803,75.0,34.0,Pelan,0.0,0.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,54.0,158.0,70.0,28.040378144528116,96.0,36.0,Pelan,0.0,0.0,6.0,Tidak Menggangu,TRUE,TRUE,TRUE,,Normal
+Perempuan,74.0,158.0,55.0,22.031725684986377,73.0,33.0,Pelan,0.0,0.0,7.0,Tidak Menggangu,TRUE,TRUE,FALSE,,Normal
+Perempuan,48.0,153.0,64.9,27.724379512153448,84.0,35.0,Pelan,0.0,0.0,5.0,Tidak Menggangu,FALSE,FALSE,TRUE,,Normal
+Perempuan,21.0,156.0,63.0,25.88757396449704,80.0,33.0,Normal (tidak mengorok),0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,33.0,170.0,71.0,24.56747404844291,83.0,36.0,Normal (tidak mengorok),0.0,0.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,22.0,156.0,40.0,16.43655489809336,66.0,31.0,Sedang,0.0,3.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,amandel besar,Sedang
+Laki-laki,72.0,170.0,70.0,24.221453287197235,80.0,36.0,Pelan,0.0,0.0,6.0,Tidak Menggangu,FALSE,TRUE,FALSE,,Normal
+Laki-laki,38.0,178.0,85.0,26.82742078020452,90.0,36.0,Sedang,0.0,5.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,"asthma, polip",Sedang
+Perempuan,23.0,159.0,65.0,25.71100826707804,89.0,35.0,Sedang,1.0,2.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,51.0,179.0,85.0,26.528510346119035,82.0,35.0,Sedang,0.0,0.0,6.0,Tidak Menggangu,FALSE,TRUE,FALSE,,Normal
+Laki-laki,36.0,175.0,113.0,36.89795918367347,105.0,38.0,Keras,1.0,1.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,27.0,170.0,79.0,27.33564013840831,89.0,36.0,Pelan,0.0,0.0,5.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,30.0,175.0,89.0,29.06122448979592,92.0,36.0,Sedang,0.0,2.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Ringan
+Perempuan,54.0,158.0,105.0,42.06056721679217,115.0,36.0,Sedang,0.0,3.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,76.0,170.0,77.0,26.643598615916957,84.0,35.0,Sedang,0.0,1.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Perempuan,61.0,155.0,50.0,20.811654526534856,78.0,32.0,Pelan,0.0,0.0,5.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,29.0,168.0,79.0,27.99036281179139,94.0,35.0,Sedang,1.0,2.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,46.0,158.0,125.0,50.0721038295145,110.0,42.0,Keras,3.0,6.0,7.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
+Laki-laki,46.0,175.0,82.0,26.775510204081634,108.0,38.0,Sedang,1.0,2.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Perempuan,54.0,158.0,70.0,28.040378144528116,96.0,36.0,Sedang,1.0,3.0,6.0,Tidak Menggangu,TRUE,FALSE,FALSE,hypertiroid,Ringan
+Laki-laki,62.0,158.0,85.0,34.049030604069856,130.0,40.0,Sedang,1.0,3.0,6.0,Tidak Menggangu,TRUE,TRUE,TRUE,,Ringan
+Laki-laki,38.0,162.0,57.0,21.719250114311837,78.0,35.0,Pelan,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,38.0,160.0,73.0,28.515624999999993,87.0,35.0,Sedang,0.0,3.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,31.0,174.0,79.0,26.09327520147972,88.0,36.0,Sedang,1.0,0.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,23.0,171.0,101.0,34.54054238911118,104.0,38.0,Keras,1.0,2.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Sedang
+Perempuan,26.0,159.0,88.0,34.80874965389027,87.0,36.0,Sedang,0.0,1.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Ringan
+Perempuan,72.0,157.0,72.0,29.21010994360826,95.0,36.0,Sedang,1.0,3.0,6.0,Tidak Menggangu,TRUE,TRUE,TRUE,,Sedang
+Perempuan,27.0,156.0,78.0,32.05128205128205,99.0,34.0,Pelan,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,78.0,176.0,108.0,34.86570247933884,115.0,38.0,Sedang,1.0,6.0,5.0,Sedikit Menggangu,TRUE,TRUE,TRUE,,Berat
+Perempuan,10.0,155.0,58.0,24.141519250780433,84.0,34.0,Keras,0.0,6.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,amandel besar,Berat
+Perempuan,48.0,158.0,67.0,26.83864765261977,95.0,38.0,Sedang,0.0,2.0,5.0,Sedikit Menggangu,FALSE,TRUE,FALSE,,Ringan
+Laki-laki,56.0,163.0,78.0,29.357521924046825,90.0,37.0,Sedang,0.0,0.0,6.0,Tidak Menggangu,FALSE,TRUE,FALSE,,Ringan
+Laki-laki,74.0,165.0,98.0,35.99632690541782,110.0,40.0,Sedang,1.0,3.0,5.0,Sedikit Menggangu,TRUE,TRUE,TRUE,,Sedang
+Laki-laki,64.0,175.0,110.0,35.91836734693877,109.0,42.0,Keras,2.0,5.0,5.0,Sangat Menganggu,FALSE,TRUE,TRUE,,Berat
+Perempuan,38.0,167.0,48.0,17.21108680841909,64.0,32.0,Pelan,0.0,0.0,8.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,26.0,178.0,78.0,24.61810377477591,80.0,36.0,Keras,0.0,5.0,7.0,Sedikit Menggangu,FALSE,FALSE,FALSE,amandel,Berat
+Laki-laki,84.0,180.0,108.0,33.33333333333333,106.0,40.0,Keras,2.0,6.0,8.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
+Perempuan,42.0,158.0,106.0,42.46114404742829,116.0,43.0,Keras,2.0,5.0,7.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
+Perempuan,57.0,162.0,93.0,35.43667123914037,96.0,38.0,Keras,0.0,3.0,7.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Sedang
+Laki-laki,56.0,172.0,108.0,36.50621957815036,98.0,35.0,Sedang,0.0,2.0,7.0,Sedikit Menggangu,FALSE,TRUE,TRUE,,Sedang
+Perempuan,46.0,159.0,78.0,30.853209920493647,95.0,35.0,Sedang,0.0,3.0,5.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Perempuan,36.0,156.0,80.0,32.87310979618672,89.0,36.0,Keras,1.0,6.0,6.0,Sangat Menganggu,TRUE,FALSE,FALSE,,Berat
+Perempuan,24.0,163.0,89.0,33.49768527230984,85.0,38.0,Sedang,0.0,3.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Perempuan,25.0,162.0,90.0,34.293552812071326,91.0,38.0,Sedang,0.0,3.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Sedang
+Laki-laki,32.0,173.0,108.0,36.08540211834675,99.0,38.0,Sedang,0.0,2.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Sedang
+Laki-laki,48.0,176.0,113.0,36.479855371900825,104.0,40.0,Keras,0.0,3.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Sedang
+Laki-laki,38.0,170.0,89.0,30.795847750865054,95.0,36.0,Sedang,0.0,1.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,48.0,175.0,98.0,32.0,89.0,36.0,Keras,0.0,2.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,28.0,172.0,85.0,28.73174689021093,85.0,35.0,Sedang,0.0,2.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Perempuan,45.0,158.0,73.0,29.242108636436463,92.0,37.0,Keras,0.0,3.0,6.0,Sedikit Menggangu,TRUE,FALSE,FALSE,,Sedang
+Perempuan,33.0,162.0,75.0,28.577960676726104,84.0,34.0,Sedang,1.0,2.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Perempuan,57.0,155.0,90.0,37.460978147762745,115.0,38.0,Keras,1.0,5.0,6.0,Sedikit Menggangu,TRUE,TRUE,TRUE,,Berat
+Perempuan,43.0,157.0,88.0,35.70124548663232,109.0,36.0,Sedang,0.0,2.0,7.0,Tidak Menggangu,FALSE,FALSE,TRUE,,Ringan
+Perempuan,15.0,154.0,75.0,31.624219935908247,80.0,34.0,Sedang,0.0,0.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,45.0,184.0,106.0,31.30907372400756,95.0,34.0,Keras,2.0,6.0,7.0,Sangat Menganggu,FALSE,FALSE,FALSE,amandel,Berat
+Laki-laki,41.0,176.0,93.0,30.023243801652892,98.0,38.0,Keras,1.0,3.0,7.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Sedang
+Perempuan,65.0,159.0,67.0,26.502116213757365,85.0,35.0,Sedang,2.0,1.0,5.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Perempuan,74.0,163.0,89.0,33.49768527230984,108.0,36.0,Sedang,2.0,2.0,5.0,Sedikit Menggangu,TRUE,TRUE,TRUE,,Sedang
+Laki-laki,84.0,168.0,97.0,34.367913832199555,103.0,37.0,Sedang,1.0,1.0,6.0,Tidak Menggangu,FALSE,TRUE,TRUE,,Ringan
+Laki-laki,54.0,178.0,89.0,28.089887640449437,93.0,40.0,Sedang,1.0,3.0,6.0,Tidak Menggangu,FALSE,TRUE,FALSE,,Sedang
+Laki-laki,57.0,168.0,83.0,29.40759637188209,104.0,39.0,Keras,1.0,5.0,7.0,Sangat Menganggu,TRUE,TRUE,TRUE,amandel,Berat
+Laki-laki,43.0,177.0,98.0,31.28092182961473,95.0,38.0,Sedang,0.0,2.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,33.0,163.0,93.0,35.00319921713275,101.0,38.0,Keras,0.0,0.0,7.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Sedang
+Laki-laki,7.0,130.0,17.0,10.059171597633135,49.0,25.0,Keras,2.0,5.0,7.0,Sedikit Menggangu,FALSE,FALSE,FALSE,amandel,Berat
+Laki-laki,37.0,173.0,93.0,31.073540713020815,97.0,36.0,Sedang,0.0,2.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Sedang
+Laki-laki,66.0,167.0,60.0,21.513858510523864,76.0,35.0,Pelan,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,8.0,140.0,48.0,24.48979591836735,89.0,36.0,Keras,0.0,2.0,7.0,Sedikit Menggangu,FALSE,FALSE,FALSE,adenoid,Sedang
+Perempuan,58.0,155.0,95.0,39.54214360041623,120.0,44.0,Keras,2.0,5.0,6.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
+Laki-laki,48.0,174.0,110.0,36.332408508389484,109.0,43.0,Keras,1.0,4.0,7.0,Sedikit Menggangu,TRUE,TRUE,TRUE,,Berat
+Laki-laki,73.0,167.0,89.0,31.912223457277065,95.0,36.0,Keras,2.0,5.0,6.0,Sangat Menganggu,TRUE,TRUE,TRUE,amandel besar,Berat
+Perempuan,68.0,158.0,99.0,39.65710623297548,110.0,38.0,Keras,1.0,5.0,5.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Berat
+Laki-laki,48.0,168.0,89.0,31.533446712018144,106.0,39.0,Keras,0.0,3.0,5.0,Sedikit Menggangu,TRUE,TRUE,TRUE,alergi,Berat
+Laki-laki,35.0,173.0,89.0,29.737044338267232,98.0,40.0,Keras,0.0,1.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,pilek,Sedang
+Laki-laki,45.0,180.0,108.0,33.33333333333333,112.0,45.0,Keras,1.0,4.0,7.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
+Perempuan,65.0,157.0,87.0,35.295549515193315,102.0,35.0,Keras,2.0,3.0,6.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
+Perempuan,42.0,165.0,60.0,22.03856749311295,72.0,30.0,Normal (tidak mengorok),0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,46.0,150.0,80.0,35.55555555555556,102.0,37.0,Sedang,1.0,2.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Sedang
+Perempuan,54.0,155.0,55.0,22.892819979188342,74.0,31.0,Pelan,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,24.0,158.0,52.0,20.82999519307803,72.0,29.0,Keras,0.0,2.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,amandel besar,Sedang
+Perempuan,52.0,158.0,56.0,22.432302515622492,80.0,32.0,Pelan,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,58.0,175.0,78.0,25.46938775510204,94.0,35.0,Normal (tidak mengorok),0.0,0.0,7.0,Tidak Menggangu,FALSE,TRUE,FALSE,,Normal
+Perempuan,64.0,162.0,65.0,24.76756591982929,84.0,33.0,Sedang,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,rhinitis alergi,Ringan
+Perempuan,56.0,156.0,58.0,23.83300460223537,85.0,35.0,Pelan,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,47.0,168.0,63.0,22.321428571428577,75.0,32.0,Sedang,0.0,1.0,6.0,Tidak Menggangu,TRUE,FALSE,FALSE,amandel besar,Ringan
+Perempuan,32.0,158.0,78.0,31.244992789617044,94.0,36.0,Sedang,0.0,1.0,6.0,Sedikit Menggangu,FALSE,TRUE,TRUE,,Sedang
+Perempuan,45.0,164.0,60.0,22.308149910767405,88.0,36.0,Sedang,0.0,1.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,hamil,Ringan
+Laki-laki,43.0,185.0,90.0,26.296566837107374,104.0,37.0,Sedang,0.0,2.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Sedang
+Perempuan,74.0,158.0,58.0,23.233456176894723,87.0,34.0,Pelan,0.0,0.0,5.0,Tidak Menggangu,FALSE,TRUE,FALSE,,Ringan
+Perempuan,56.0,167.0,87.0,31.1950948402596,95.0,36.0,Keras,2.0,5.0,6.0,Sangat Menganggu,TRUE,TRUE,TRUE,autoimun,Berat
+Laki-laki,84.0,173.0,90.0,30.071168431955627,109.0,38.0,Keras,1.0,3.0,6.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
+Perempuan,76.0,162.0,70.0,26.672763298277697,84.0,34.0,Sedang,2.0,1.0,5.0,Sedikit Menggangu,TRUE,TRUE,TRUE,,Sedang
+Perempuan,68.0,154.0,76.0,32.04587620172036,95.0,36.0,Keras,2.0,3.0,5.0,Sedikit Menggangu,TRUE,TRUE,TRUE,,Berat
+Perempuan,55.0,164.0,80.0,29.744199881023206,96.0,35.0,Sedang,1.0,0.0,5.0,Sedikit Menggangu,TRUE,FALSE,FALSE,,Sedang
+Perempuan,58.0,157.0,76.0,30.832893829364274,94.0,34.0,Pelan,0.0,1.0,5.0,Tidak Menggangu,TRUE,TRUE,TRUE,,Ringan
+Perempuan,59.0,155.0,89.0,37.04474505723204,102.0,32.0,Sedang,0.0,0.0,6.0,Tidak Menggangu,TRUE,FALSE,TRUE,,Ringan
+Perempuan,65.0,160.0,70.0,27.343749999999996,90.0,35.0,Sedang,0.0,0.0,6.0,Tidak Menggangu,TRUE,FALSE,TRUE,,Ringan
+Laki-laki,25.0,175.0,125.0,40.816326530612244,145.0,42.0,Sedang,0.0,0.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Ringan
+Perempuan,41.0,157.0,55.0,22.313278429145196,72.0,31.0,Normal (tidak mengorok),0.0,0.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,58.0,167.0,91.5,32.80863422854889,104.0,39.0,Keras,0.0,1.0,6.0,Sedikit Menggangu,FALSE,TRUE,FALSE,,Sedang
+Perempuan,47.0,160.0,67.0,26.171874999999996,84.0,35.0,Normal (tidak mengorok),0.0,0.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,42.0,158.0,68.0,27.239224483255885,86.0,33.0,Pelan,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,54.0,155.0,52.0,21.64412070759625,76.0,31.0,Normal (tidak mengorok),0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,32.0,163.0,58.0,21.829952199932254,75.0,32.0,Pelan,0.0,0.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,51.0,172.0,76.0,25.689561925365066,84.0,35.0,Normal (tidak mengorok),0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,14.0,165.0,61.0,22.4058769513315,72.0,32.0,Pelan,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,rhinitis alergi,Normal
+Perempuan,33.0,152.0,49.2,21.295013850415515,76.0,29.0,Normal (tidak mengorok),0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,32.0,164.0,67.0,24.910767400356935,98.0,31.0,Normal (tidak mengorok),0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,hamil,Normal
+Perempuan,17.0,155.0,64.0,26.638917793964616,84.0,32.0,Normal (tidak mengorok),0.0,0.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,27.0,165.0,53.0,19.467401285583104,67.0,30.0,Pelan,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,28.0,173.0,73.0,24.3910588392529,87.0,34.0,Normal (tidak mengorok),0.0,0.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,30.0,173.0,75.0,25.05930702662969,93.0,35.0,Sedang,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,rhinitis alergi,Ringan
+Perempuan,52.0,162.0,63.0,24.005486968449926,79.0,33.0,Pelan,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,53.0,155.0,125.0,52.029136316337144,155.0,42.0,Keras,1.0,3.0,6.0,Sedikit Menggangu,TRUE,TRUE,TRUE,,Berat
+Laki-laki,64.0,175.0,89.0,29.06122448979592,98.0,38.0,Sedang,0.0,1.0,6.0,Sedikit Menggangu,FALSE,TRUE,TRUE,,Sedang
+Laki-laki,36.0,180.0,113.0,34.876543209876544,108.0,42.0,Keras,0.0,1.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Sedang
+Perempuan,18.0,157.0,53.0,21.50188648626719,73.0,30.0,Pelan,0.0,0.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,29.0,173.0,84.0,28.06642386982525,93.0,34.0,Pelan,0.0,0.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,38.0,179.0,80.0,24.968009737523797,92.0,36.0,Normal (tidak mengorok),0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,23.0,175.0,49.0,16.0,72.0,29.0,Normal (tidak mengorok),0.0,0.0,5.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,22.0,158.0,66.0,26.43807082198365,78.0,34.0,Normal (tidak mengorok),0.0,0.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,48.0,160.0,78.0,30.468749999999993,95.0,33.0,Pelan,2.0,0.0,5.0,Tidak Menggangu,TRUE,FALSE,TRUE,,Sedang
+Perempuan,43.0,155.0,49.0,20.39542143600416,75.0,32.0,Normal (tidak mengorok),1.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,48.0,153.0,52.0,22.21367849972233,80.0,30.0,Pelan,2.0,0.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,73.0,175.0,63.0,20.571428571428573,78.0,32.0,Pelan,1.0,0.0,5.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,65.0,178.0,76.0,23.98687034465345,84.0,30.0,Normal (tidak mengorok),0.0,0.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,64.0,157.0,52.0,21.096190514828187,79.0,32.0,Pelan,0.0,0.0,5.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,43.0,169.0,67.0,23.458562375266975,82.0,35.0,Normal (tidak mengorok),0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,63.0,179.0,69.0,21.534908398614277,80.0,34.0,Pelan,0.0,0.0,5.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,18.0,180.0,95.0,29.320987654320987,101.0,34.0,Normal (tidak mengorok),0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,26.0,176.0,84.0,27.117768595041323,95.0,32.0,Normal (tidak mengorok),0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,38.0,180.0,75.0,23.148148148148145,80.0,34.0,Normal (tidak mengorok),0.0,0.0,8.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,49.0,163.0,60.0,22.582709172343712,80.0,32.0,Normal (tidak mengorok),0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,35.0,175.0,83.0,27.102040816326532,83.0,32.0,Normal (tidak mengorok),0.0,0.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,47.0,170.0,76.0,26.29757785467128,80.0,32.0,Normal (tidak mengorok),0.0,0.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Laki-laki,59.0,176.0,79.0,25.50361570247934,84.0,33.0,Pelan,0.0,0.0,5.0,Tidak Menggangu,FALSE,TRUE,FALSE,,Normal
+Perempuan,35.0,164.0,62.0,23.051754907792983,78.0,32.0,Normal (tidak mengorok),0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,49.0,158.0,55.0,22.031725684986377,84.0,34.0,Pelan,1.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Normal
+Perempuan,62.0,154.0,49.0,20.66115702479339,78.0,32.0,Normal (tidak mengorok),2.0,0.0,5.0,Tidak Menggangu,FALSE,TRUE,TRUE,,Normal
+Laki-laki,78.0,169.0,56.0,19.607156612163443,75.0,32.0,Pelan,1.0,0.0,5.0,Tidak Menggangu,TRUE,TRUE,TRUE,,Normal
+Perempuan,25.0,163.0,55.0,20.70081674131507,78.0,31.0,Keras,0.0,3.0,7.0,Sedikit Menggangu,FALSE,FALSE,FALSE,amandel,Berat
+Perempuan,8.0,145.0,21.0,9.988109393579073,55.0,24.0,Keras,0.0,5.0,8.0,Tidak Menggangu,FALSE,FALSE,FALSE,amandel,Berat
+Laki-laki,38.0,175.0,125.0,40.816326530612244,140.0,43.0,Keras,0.0,3.0,7.0,Sangat Menganggu,FALSE,FALSE,TRUE,,Berat
+Perempuan,36.0,164.0,80.0,29.744199881023206,95.0,36.0,Keras,0.0,1.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,amandel,Sedang
+Laki-laki,37.0,167.0,89.0,31.912223457277065,105.0,41.0,Keras,1.0,0.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Sedang
+Laki-laki,52.0,174.0,95.0,31.37798916633637,109.0,40.0,Sedang,0.0,1.0,6.0,Sedikit Menggangu,FALSE,TRUE,TRUE,,Sedang
+Laki-laki,28.0,180.0,93.0,28.703703703703702,90.0,38.0,Sedang,0.0,0.0,6.0,Sangat Menganggu,FALSE,FALSE,FALSE,,Sedang
+Perempuan,58.0,157.0,89.0,36.10694145807132,115.0,42.0,Keras,2.0,4.0,7.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
+Laki-laki,49.0,173.0,96.0,32.075912994086,98.0,40.0,Sedang,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Perempuan,53.0,162.0,73.0,27.815881725346742,92.0,36.0,Sedang,1.0,0.0,5.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Perempuan,58.0,152.0,66.0,28.566481994459835,94.0,34.0,Pelan,0.0,1.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Ringan
+Perempuan,63.0,157.0,55.0,22.313278429145196,84.0,30.0,Pelan,2.0,0.0,6.0,Sedikit Menggangu,TRUE,TRUE,FALSE,,Ringan
+Perempuan,74.0,163.0,66.0,24.840980089578082,96.0,34.0,Sedang,1.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,78.0,176.0,70.0,22.59814049586777,87.0,35.0,Sedang,1.0,0.0,5.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,56.0,178.0,83.0,26.19618735008206,98.0,38.0,Sedang,1.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Perempuan,57.0,163.0,67.0,25.21735857578381,88.0,32.0,Sedang,2.0,0.0,5.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Perempuan,84.0,158.0,50.0,20.028841531805796,80.0,32.0,Pelan,2.0,1.0,5.0,Tidak Menggangu,FALSE,TRUE,FALSE,,Ringan
+Perempuan,76.0,163.0,53.0,19.94805976890361,78.0,30.0,Pelan,1.0,1.0,6.0,Tidak Menggangu,FALSE,TRUE,FALSE,,Ringan
+Perempuan,36.0,161.0,89.0,34.33509509663978,94.0,38.0,Sedang,0.0,1.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Sedang
+Perempuan,26.0,156.0,75.0,30.818540433925047,98.0,38.0,Sedang,0.0,2.0,6.0,Tidak Menggangu,FALSE,FALSE,TRUE,,Sedang
+Perempuan,34.0,163.0,80.0,30.11027889645828,96.0,38.0,Pelan,0.0,1.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,37.0,178.0,90.0,28.40550435551067,106.0,38.0,Sedang,0.0,0.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Ringan
+Perempuan,41.0,158.0,61.0,24.435186668803073,88.0,34.0,Pelan,0.0,1.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,43.0,176.0,86.0,27.763429752066116,102.0,36.0,Sedang,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,TRUE,,Ringan
+Perempuan,36.0,164.0,66.0,24.538964901844146,84.0,32.0,Sedang,0.0,1.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,rhinitis alergi,Sedang
+Laki-laki,48.0,174.0,78.0,25.762980578676178,82.0,34.0,Pelan,0.0,1.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Perempuan,41.0,154.0,49.0,20.66115702479339,73.0,32.0,Pelan,1.0,1.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,26.0,180.0,100.0,30.864197530864196,99.0,36.0,Sedang,0.0,0.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Ringan
+Perempuan,33.0,152.0,55.0,23.80540166204986,86.0,32.0,Pelan,0.0,1.0,7.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Ringan
+Perempuan,46.0,158.0,60.0,24.034609838166958,80.0,32.0,Sedang,0.0,0.0,6.0,Sedikit Menggangu,FALSE,TRUE,TRUE,,Sedang
+Laki-laki,58.0,175.0,80.0,26.122448979591837,95.0,34.0,Sedang,0.0,0.0,5.0,Sedikit Menggangu,FALSE,TRUE,TRUE,,Sedang
+Laki-laki,63.0,168.0,75.0,26.573129251700685,98.0,34.0,Pelan,0.0,0.0,6.0,Sedikit Menggangu,FALSE,TRUE,FALSE,,Ringan
+Perempuan,34.0,156.0,73.0,29.996712689020377,102.0,36.0,Sedang,0.0,0.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Perempuan,42.0,162.0,78.0,29.721079103795148,96.0,34.0,Sedang,0.0,1.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Sedang
+Laki-laki,39.0,168.0,75.0,26.573129251700685,90.0,34.0,Pelan,0.0,0.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,hidung tersumbat,Ringan
+Perempuan,36.0,163.0,60.0,22.582709172343712,80.0,32.0,Sedang,0.0,0.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,28.0,173.0,84.0,28.06642386982525,92.0,34.0,Sedang,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Perempuan,47.0,166.0,70.0,25.402816083611555,78.0,32.0,Pelan,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,63.0,172.0,89.0,30.08382909680909,102.0,38.0,Sedang,0.0,0.0,6.0,Tidak Menggangu,FALSE,TRUE,FALSE,,Ringan
+Perempuan,42.0,159.0,65.0,25.71100826707804,88.0,34.0,Pelan,0.0,0.0,7.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,29.0,170.0,95.0,32.871972318339104,106.0,42.0,Sedang,0.0,0.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Ringan
+Laki-laki,49.0,173.0,100.0,33.41240936883958,106.0,44.0,Keras,2.0,3.0,6.0,Sangat Menganggu,FALSE,FALSE,FALSE,,Berat
+Perempuan,33.0,158.0,80.0,32.046146450889275,110.0,38.0,Sedang,2.0,1.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,gerd,Sedang
+Laki-laki,49.0,177.0,97.0,30.961728749720702,102.0,40.0,Sedang,1.0,1.0,6.0,Sedikit Menggangu,FALSE,FALSE,TRUE,,Sedang
+Laki-laki,46.0,160.0,102.0,39.84374999999999,115.0,46.0,Keras,1.0,4.0,6.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
+Laki-laki,42.0,174.0,110.0,36.332408508389484,120.0,44.0,Keras,2.0,3.0,6.0,Sangat Menganggu,TRUE,TRUE,FALSE,,Berat
+Perempuan,67.0,157.0,87.0,35.295549515193315,105.0,42.0,Keras,2.0,3.0,6.0,Sangat Menganggu,TRUE,FALSE,TRUE,,Berat
+Laki-laki,63.0,178.0,140.0,44.186340108572146,160.0,48.0,Keras,1.0,6.0,7.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
+Perempuan,54.0,165.0,80.0,29.384756657483933,103.0,38.0,Keras,1.0,0.0,6.0,Sedikit Menggangu,TRUE,FALSE,TRUE,,Sedang
+Perempuan,74.0,164.0,95.0,35.32123735871506,106.0,36.0,Keras,1.0,4.0,6.0,Sangat Menganggu,FALSE,FALSE,FALSE,,Berat
+Perempuan,29.0,154.0,66.0,27.82931354359926,97.0,35.0,Sedang,0.0,1.0,7.0,Sedikit Menggangu,FALSE,FALSE,FALSE,amandel,Sedang
+Laki-laki,46.0,175.0,160.0,52.244897959183675,140.0,46.0,Keras,2.0,4.0,7.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
+Perempuan,59.0,155.0,89.0,37.04474505723204,125.0,36.0,Keras,2.0,3.0,5.0,Sedikit Menggangu,TRUE,TRUE,TRUE,,Berat
+Perempuan,62.0,163.0,98.0,36.88509164816139,107.0,40.0,Keras,1.0,3.0,6.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
+Laki-laki,63.0,167.0,100.0,35.8564308508731,108.0,42.0,Keras,1.0,4.0,6.0,Sedikit Menggangu,FALSE,TRUE,TRUE,,Berat
+Perempuan,54.0,156.0,65.0,26.709401709401707,90.0,38.0,Keras,2.0,3.0,6.0,Sangat Menganggu,TRUE,FALSE,FALSE,,Berat
+Laki-laki,39.0,175.0,96.0,31.346938775510203,110.0,38.0,Keras,0.0,2.0,6.0,Sedikit Menggangu,TRUE,FALSE,TRUE,,Sedang
+Laki-laki,46.0,165.0,78.0,28.650137741046834,98.0,34.0,Sedang,2.0,1.0,6.0,Sangat Menganggu,FALSE,TRUE,FALSE,,Sedang
+Perempuan,56.0,156.0,71.0,29.17488494411571,101.0,34.0,Sedang,1.0,3.0,6.0,Sedikit Menggangu,TRUE,FALSE,TRUE,,Sedang
+Perempuan,32.0,156.0,95.0,39.036817882971725,115.0,42.0,Sedang,2.0,2.0,7.0,Sedikit Menggangu,TRUE,FALSE,FALSE,,Sedang
+Laki-laki,48.0,169.0,126.0,44.116102377367746,121.0,46.0,Keras,1.0,3.0,6.0,Sangat Menganggu,FALSE,TRUE,TRUE,,Berat
+Perempuan,53.0,163.0,85.0,31.992171327486922,116.0,36.0,Sedang,2.0,1.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Sedang
+Laki-laki,67.0,176.0,118.0,38.09400826446281,124.0,42.0,Keras,1.0,2.0,7.0,Sangat Menganggu,FALSE,TRUE,TRUE,,Berat
+Perempuan,74.0,163.0,84.0,31.615792841281195,98.0,36.0,Keras,2.0,3.0,5.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
+Laki-laki,67.0,178.0,104.0,32.82413836636788,110.0,45.0,Keras,1.0,3.0,6.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
+Laki-laki,63.0,162.0,98.0,37.34186861758877,130.0,46.0,Sedang,1.0,2.0,6.0,Sedikit Menggangu,TRUE,TRUE,TRUE,,Sedang
+Perempuan,56.0,162.0,96.0,36.579789666209415,109.0,38.0,Keras,1.0,1.0,6.0,Sedikit Menggangu,FALSE,TRUE,FALSE,,Sedang
+Laki-laki,76.0,182.0,108.0,32.60475787948315,98.0,42.0,Sedang,1.0,1.0,5.0,Sedikit Menggangu,TRUE,TRUE,TRUE,,Sedang
+Laki-laki,67.0,182.0,116.0,35.019925129815235,119.0,44.0,Sedang,1.0,3.0,6.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
+Perempuan,45.0,167.0,95.0,34.06360930832945,106.0,36.0,Sedang,2.0,1.0,7.0,Sedikit Menggangu,FALSE,TRUE,FALSE,,Sedang
+Perempuan,69.0,163.0,78.0,29.357521924046825,98.0,36.0,Sedang,2.0,1.0,6.0,Sedikit Menggangu,FALSE,TRUE,TRUE,,Sedang
+Laki-laki,67.0,172.0,96.0,32.44997295835587,108.0,42.0,Sedang,1.0,2.0,6.0,Tidak Menggangu,FALSE,TRUE,FALSE,,Sedang
+Laki-laki,58.0,176.0,89.0,28.731921487603305,98.0,38.0,Sedang,1.0,1.0,7.0,Sedikit Menggangu,FALSE,TRUE,FALSE,,Sedang
+Perempuan,49.0,164.0,76.0,28.256989886972047,97.0,36.0,Sedang,2.0,1.0,7.0,Sedikit Menggangu,TRUE,FALSE,FALSE,,Sedang
+Laki-laki,59.0,182.0,117.0,35.32182103610675,126.0,46.0,Keras,2.0,1.0,7.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
+Perempuan,46.0,167.0,94.0,33.70504499982072,121.0,38.0,Sedang,1.0,1.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Sedang
+Laki-laki,37.0,173.0,122.0,40.76313942998429,118.0,44.0,Keras,0.0,4.0,6.0,Sangat Menganggu,FALSE,FALSE,TRUE,,Berat
+Perempuan,67.0,159.0,94.0,37.18207349392824,102.0,38.0,Keras,2.0,2.0,7.0,Sedikit Menggangu,TRUE,FALSE,TRUE,,Berat
+Laki-laki,16.0,178.0,98.0,30.930438076000502,96.0,42.0,Keras,0.0,3.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,amandel,Berat
+Laki-laki,38.0,182.0,98.0,29.585798816568044,108.0,43.0,Sedang,1.0,1.0,7.0,Sedikit Menggangu,FALSE,TRUE,FALSE,,Sedang
+Perempuan,49.0,165.0,86.0,31.58861340679523,96.0,36.0,Sedang,2.0,1.0,6.0,Sedikit Menggangu,TRUE,FALSE,FALSE,,Sedang
+Laki-laki,46.0,168.0,94.0,33.30498866213152,128.0,44.0,Keras,1.0,3.0,6.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
+Perempuan,35.0,163.0,65.0,24.46460160337235,88.0,34.0,Sedang,0.0,2.0,6.0,Sangat Menganggu,FALSE,TRUE,FALSE,rhinitis alergi,Berat
+Perempuan,53.0,158.0,73.0,29.242108636436463,96.0,34.0,Sedang,1.0,2.0,7.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Sedang
+Laki-laki,68.0,173.0,90.0,30.071168431955627,98.0,36.0,Sedang,1.0,2.0,6.0,Tidak Menggangu,FALSE,FALSE,FALSE,,Sedang
+Laki-laki,47.0,176.0,94.0,30.34607438016529,102.0,38.0,Keras,1.0,3.0,6.0,Sangat Menganggu,FALSE,TRUE,TRUE,,Berat
+Perempuan,43.0,153.0,65.0,27.76709812465291,98.0,36.0,Sedang,0.0,3.0,7.0,Sedikit Menggangu,TRUE,FALSE,FALSE,,Sedang
+Laki-laki,49.0,181.0,102.0,31.13458075150331,104.0,38.0,Sedang,1.0,2.0,6.0,Sedikit Menggangu,FALSE,TRUE,FALSE,,Sedang
+Perempuan,36.0,154.0,85.0,35.84078259402935,118.0,38.0,Sedang,2.0,1.0,6.0,Sedikit Menggangu,TRUE,FALSE,TRUE,,Sedang
+Perempuan,56.0,157.0,98.0,39.75820520102235,130.0,40.0,Keras,2.0,3.0,7.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
+Perempuan,48.0,163.0,98.0,36.88509164816139,106.0,36.0,Sedang,0.0,2.0,6.0,Sedikit Menggangu,FALSE,TRUE,FALSE,,Sedang
+Laki-laki,38.0,178.0,106.0,33.45537179649034,115.0,42.0,Keras,0.0,5.0,7.0,Sangat Menganggu,FALSE,TRUE,TRUE,,Berat
+Perempuan,29.0,162.0,73.0,27.815881725346742,92.0,34.0,Keras,1.0,1.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,amandel,Sedang
+Laki-laki,27.0,172.0,97.0,32.787993510005414,98.0,36.0,Sedang,0.0,1.0,7.0,Sedikit Menggangu,FALSE,FALSE,FALSE,rhinitis alergi,Sedang
+Perempuan,29.0,164.0,85.0,31.603212373587155,140.0,34.0,Keras,0.0,1.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,hamil,Sedang
+Laki-laki,37.0,172.0,80.0,27.041644131963228,98.0,36.0,Keras,0.0,1.0,7.0,Sedikit Menggangu,FALSE,FALSE,FALSE,rhinitis alergi,Sedang
+Laki-laki,49.0,167.0,89.0,31.912223457277065,102.0,40.0,Sedang,1.0,3.0,6.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
+Perempuan,38.0,154.0,63.0,26.564344746162927,100.0,36.0,Sedang,0.0,1.0,6.0,Sedikit Menggangu,TRUE,FALSE,TRUE,,Sedang
+Laki-laki,47.0,175.0,94.0,30.693877551020407,102.0,42.0,Keras,0.0,1.0,6.0,Sedikit Menggangu,FALSE,TRUE,TRUE,,Sedang
+Laki-laki,57.0,173.0,104.0,34.74890574359317,116.0,44.0,Keras,1.0,3.0,6.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
+Laki-laki,63.0,182.0,113.0,34.1142374109407,107.0,45.0,Keras,2.0,4.0,6.0,Sangat Menganggu,FALSE,TRUE,TRUE,,Berat
+Perempuan,48.0,157.0,114.0,46.24934074404641,130.0,44.0,Keras,1.0,3.0,7.0,Sangat Menganggu,FALSE,FALSE,FALSE,,Berat
+Laki-laki,62.0,167.0,92.0,32.987916382803256,119.0,46.0,Keras,2.0,3.0,6.0,Sedikit Menggangu,FALSE,TRUE,TRUE,,Berat
+Perempuan,38.0,166.0,89.0,32.29786616344898,123.0,40.0,Keras,2.0,1.0,7.0,Sangat Menganggu,TRUE,FALSE,FALSE,,Berat
+Laki-laki,42.0,174.0,115.0,37.98388162240719,116.0,42.0,Keras,1.0,3.0,7.0,Sangat Menganggu,FALSE,TRUE,TRUE,,Berat
+Perempuan,45.0,163.0,93.0,35.00319921713275,106.0,40.0,Sedang,0.0,2.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Sedang
+Laki-laki,67.0,178.0,95.0,29.983587930816814,108.0,43.0,Keras,0.0,1.0,5.0,Sedikit Menggangu,FALSE,TRUE,TRUE,,Sedang
+Perempuan,54.0,153.0,74.0,31.611773249604852,104.0,38.0,Sedang,0.0,1.0,7.0,Sedikit Menggangu,TRUE,TRUE,FALSE,,Sedang
+Perempuan,56.0,157.0,89.0,36.10694145807132,112.0,44.0,Keras,2.0,2.0,6.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
+Laki-laki,64.0,178.0,125.0,39.4520893826537,130.0,46.0,Keras,1.0,4.0,6.0,Sangat Menganggu,FALSE,TRUE,TRUE,,Berat
+Perempuan,57.0,164.0,78.0,29.000594883997625,94.0,36.0,Sedang,0.0,2.0,6.0,Sedikit Menggangu,TRUE,TRUE,TRUE,,Sedang
+Laki-laki,68.0,167.0,105.0,37.64925239341676,114.0,45.0,Keras,1.0,4.0,7.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
+Perempuan,54.0,157.0,115.0,46.655036715485416,127.0,42.0,Keras,2.0,2.0,6.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
+Laki-laki,56.0,178.0,97.0,30.614821360939274,114.0,38.0,Keras,1.0,1.0,6.0,Sedikit Menggangu,FALSE,TRUE,FALSE,,Sedang
+Laki-laki,45.0,176.0,112.0,36.15702479338843,134.0,46.0,Keras,2.0,3.0,7.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
+Perempuan,43.0,152.0,70.0,30.297783933518005,98.0,37.0,Sedang,2.0,1.0,6.0,Sedikit Menggangu,FALSE,FALSE,FALSE,,Sedang
+Laki-laki,48.0,176.0,109.0,35.18853305785124,116.0,42.0,Keras,1.0,3.0,7.0,Sangat Menganggu,FALSE,TRUE,TRUE,,Berat
+Laki-laki,78.0,176.0,98.0,31.63739669421488,120.0,44.0,Keras,2.0,2.0,5.0,Sedikit Menggangu,TRUE,TRUE,TRUE,,Berat
+Perempuan,58.0,159.0,78.0,30.853209920493647,103.0,38.0,Keras,1.0,3.0,6.0,Sangat Menganggu,FALSE,TRUE,TRUE,,Berat
+Laki-laki,67.0,183.0,117.0,34.93684493415748,130.0,44.0,Keras,1.0,4.0,6.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
+Perempuan,52.0,162.0,122.0,46.48681603414113,134.0,42.0,Keras,2.0,3.0,7.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
+Perempuan,39.0,156.0,103.0,42.3241288625904,108.0,40.0,Keras,1.0,4.0,6.0,Sangat Menganggu,TRUE,FALSE,FALSE,,Berat
+Laki-laki,48.0,176.0,143.0,46.16477272727273,135.0,46.0,Keras,2.0,3.0,7.0,Sangat Menganggu,FALSE,TRUE,TRUE,,Berat
+Perempuan,53.0,159.0,90.0,35.59985760056959,116.0,38.0,Keras,1.0,4.0,7.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
+Perempuan,59.0,164.0,105.0,39.03926234384296,118.0,38.0,Sedang,1.0,5.0,7.0,Sangat Menganggu,TRUE,TRUE,TRUE,,Berat
